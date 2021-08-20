@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to the InsanityBot project!
 
-You can use the [editor on GitHub](https://github.com/InsanityBot/bot.insanity.host/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+InsanityBot is a modern discord bot built on top of C#, .NET 5 and DSharpPlus 4. It is found [here](https://github.com/insanitybot/insanitybot).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+InsanityBot is a selfhost bot - which means you have to supply your own token and hosting space, which is inconvenient, but it means you have full control over the bot. Want to modify important files manually? Go for it!
 
-### Markdown
+It is intended to be easy and straightforward to use, as well as providing an unheard of amount of control for advanced users. It is currently under heavy development, but we're doing our best to keep releases stable.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Roadmaps are found [here](https://github.com/insanitybot/roadmaps).
 
-```markdown
-Syntax highlighted code block
+Documentation is found [here](https://bot.insanity.host/insanitybot).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InsanityBot/bot.insanity.host/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We also have plans to make our own Discord API wrapper. It will be found [here](https://github.com/insanitybot/starnight) and documented [here](https://bot.insanity.host/starnight).
